@@ -1,3 +1,16 @@
+# ⚠️ Deprecated
+
+**This project is no longer maintained.**
+
+This Ruby gem has been retired and will no longer receive updates, bug fixes, or security patches.
+
+If you are still using it, please consider migrating to an actively maintained alternative.
+
+The repository is scheduled to become read-only and may eventually be deleted.
+
+Thank you to everyone who used or contributed to this project.
+
+
 # Doorkeeper::OpenidConnect
 
 [![Build Status](https://travis-ci.org/doorkeeper-gem/doorkeeper-openid_connect.svg?branch=master)](https://travis-ci.org/doorkeeper-gem/doorkeeper-openid_connect)
